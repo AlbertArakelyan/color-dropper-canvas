@@ -2,12 +2,12 @@
 A photo editor based on web technologies.
 
 ## Table of Contents 🔍
-- [Product features](#product-features)
+- [Product Features](#product-features)
 - [Installation](#installation)
 - [Tech Stack](#tech-stack)
 - [Used Resources](#used-resources)
 
-## Product features 🛠️
+## Product Features 🛠️
 - give users the ability to use the color dropper
 - color dropper must show hex code in circle while hovering over an area
 - on hover over a color circle changes to that color
