@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/IconColorPicker.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/css/style.css">
+    <title>Color Dropper Canvas</title>
+  </head>
+  <body>
+    <header class="header">
+      <button class="color-dropper-btn circle-btn">
+        <img class="color-dropper-btn-icon circle-btn-icon" width="16" height="16" src="/IconColorPicker.svg" alt="Color Picker">
+      </button>
+      <span class="picked-color"></span>
+      <button class="tips-btn circle-btn" title="Tips">
+        <img class="tips-btn-icon circle-btn-icon" width="16" height="16" src="/questionMark.svg" alt="Question Mark">
+      </button>
+    </header>
+    <main class="main">
+      <div class="zoomed-colors"></div>
+      <canvas id="canvas" width="4000" height="4000"></canvas>
+    </main>
+    <script src="./src/ts/index.ts" type="module"></script>
+  </body>
+</html>
