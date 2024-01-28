@@ -2,10 +2,10 @@
 A photo editor based on web technologies.
 
 ## 🔍Table of Contents
-- [Product Features](#🛠ProductFeatures)
-- [Installation](#📦Installation)
-- [Tech Stack](#💻TechStack)
-- [Used Resources](#📚UsedResources)
+- [Product Features](#-product-features)
+- [Installation](#-installation)
+- [Tech Stack](#-tech-stack)
+- [Used Resources](#-used-resources)
 
 ## 🛠 Product Features
 - give users the ability to use the color dropper
