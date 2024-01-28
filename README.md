@@ -1,6 +1,10 @@
 # Color Dropper
 A photo editor based on web technologies.
 
+The website is deployed on [Vercel](https://vercel.com/)
+
+Website: [https://color-dropper-canvas.vercel.app/](https://color-dropper-canvas.vercel.app/)
+
 ## 🔍Table of Contents
 - [🛠 Product Features](#-product-features)
 - [📦 Installation](#-installation)
