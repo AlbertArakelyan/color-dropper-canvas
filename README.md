@@ -5,6 +5,7 @@ A photo editor based on web technologies.
 - [Product features](#product-features)
 - [Installation](#installation)
 - [Tech Stack](#tech-stack)
+- [Used Resources](#used-resources)
 
 ## Product features 🛠️
 - give users the ability to use the color dropper
@@ -42,6 +43,10 @@ npm run dev
 
 **Vite** has been used to build the project with **Typescript** faster.
 Read more about **Vite** at their [official website](https://vitejs.dev/).
+
+## Used Resources 📚
+- [Canvas Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [Pixel Manipulation with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas)
 
 ---
 
