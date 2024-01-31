@@ -7,6 +7,7 @@ export function getPixelData(canvas: HTMLCanvasElement, ctx: CanvasRenderingCont
   const x = pageX - bounding.left - Math.floor(COLOR_DROPPER_SIZE / 2);
   const y = pageY - bounding.top - Math.floor(COLOR_DROPPER_SIZE / 2);
   const pixel = ctx.getImageData(x, y, COLOR_DROPPER_SIZE, COLOR_DROPPER_SIZE);
+
   return pixel.data;
 }
 
