@@ -51,7 +51,3 @@ Read more about **Vite** at their [official website](https://vitejs.dev/).
 ## 📚 Used Resources
 - [Canvas Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Pixel Manipulation with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas)
-
----
-
-_*Please notice that I do not have `Canvas` background and this is first time I complete a task with it. No special patterns have been used just a simple **functional** approach._
